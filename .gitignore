@@ -1,0 +1,13 @@
+/.vscode
+/Library
+/UserSettings
+/Logs
+/Temp
+/Build
+/obj
+*.csproj
+*.unityproj
+*.sln
+*.cache
+*.vs
+*.vsidx
