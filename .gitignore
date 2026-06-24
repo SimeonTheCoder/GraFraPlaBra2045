@@ -11,3 +11,17 @@
 *.cache
 *.vs
 *.vsidx
+
+# Heavy game assets - tracked via Git LFS or external storage
+*.mp4
+*.avi
+*.mov
+*.wav
+*.ogg
+*.mp3
+*.fbx
+*.blend
+*.psd
+*.tga
+# Add specific files if you found them in Step 1:
+# world2/some_huge_file.bin
